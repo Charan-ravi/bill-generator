@@ -17,6 +17,25 @@ The unit tests ensure that the discount calculations are accurate.
 
 You can run this code in any Java environment that supports JDK 8 or higher(please switch to master branch).
 
+# Project structure 
+bill_generator/
+
+├── pom.xml
+
+└── src/
+
+    ├── main/    
+    │   └── java/    
+    │       └── bill_generator/    
+    │           ├── DiscountCalculator.java    
+    │           ├── Item.java    
+    │           ├── Main.java    
+    │           └── Receipt.java    
+    └── test/    
+        └── java/        
+            └── bill_generator/
+                └── DiscountCalculatorTest.java       
 
 # ps
 refer this branch for solution. 
+
