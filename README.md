@@ -20,3 +20,5 @@ You can run this code in any Java environment that supports JDK 8 or higher(plea
 I have updated the quantity and logic based around that since,
 
 previously it had only working for single products irrespective of how many differrent of them were selected 
+
+switch to first branch to view the latest changes
