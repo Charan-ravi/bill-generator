@@ -16,3 +16,7 @@ and prints a formatted receipt.
 The unit tests ensure that the discount calculations are accurate. 
 
 You can run this code in any Java environment that supports JDK 8 or higher(please switch to master branch).
+
+I have updated the quantity and logic based around that since,
+
+previously it had only working for single products irrespective of how many differrent of them were selected 
